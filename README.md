@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -61,5 +61,3 @@
     <p></p>
     <hd>
     <p>&copy; 2024 create by Fadhila Khoirun Nisa' </p>
-</body>
-</html>
