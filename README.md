@@ -56,7 +56,6 @@
     <br>	
         6.	Apa yang biasanya terjadi apabila atribut autoplay pada tag video tidak berjalan? Apa yang anda harus lakukan sehingga atribut tersebut dapat berfungsi dengan semestinya? 
     <br>
-    </b>
     <hr> 
     <p></p>
     <hd>
