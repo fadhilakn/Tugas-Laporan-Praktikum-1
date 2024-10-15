@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="stylelaprak.css">
+</head>
+<body>
+    <h1>SOAL LAPORAN TEORI</h1>
+    <hr>1.Pertanyaan seputar tag
+    <br>
+    a.	Apa yang dimaksud dengan tag pada html?
+    <br>
+    b.	Apa itu pembuka dan penutup tag? Apakah hal tersebut terdapat pada semua jenis tag?
+    <br>
+    <br>
+    2.	Pertanyaan seputar element
+    <br>
+    a.	Apa yang dimaksud dengan element?
+    <br>
+    b.	Apa yang dimaksud dengan tagname, attribute dan content pada element?
+    <br>
+    c.	Apakah elemen dapat ditumpuk? Apa yang terjadi bila demikian?
+    <br>
+    <br>
+    3.	Pertanyaan seputar anchor
+    <br>
+    a.	Apa yang dimaksud dengan anchor?
+    <br>
+    b.	Bagaimana caranya anchor dapat berfungsi, baik dari sisi pendefinisian ataupun pengaplikasiannya?
+    <br>
+    <br>
+    4.	Pertanyaan seputar multimedia
+    <br>
+    A.	Text
+    <br>	
+        1.	Sebutkan tag yang dapat digunakan untuk memanipulasi konten teks pada html, serta jelaskan fungsinya!
+    <br>
+        2.	Sebutkan tag yang dapat digunakan untuk memanipulasi struktur konten teks pada html!
+    <br>
+    <br>	
+    B.	Image
+    <br>
+        3.	Apabila sebuah tag image tidak menampilkan gambar sebagaimana seharusnya, apa saja yang mungkin menyebabkan hal tersebut?
+    <br>
+        4.	Apabila ternyata ada teks yang menggantikan gambar tersebut, apa yang sebenarnya terjadi? Jelaskan!
+    <br>
+    <br>
+    C.	Audio	
+    <br>
+        5.	Bagaimana caranya untuk kita dapat memasukkan audio source dari web (non-lokal)? Jelaskan!
+    <br>
+    <br>
+    D.	Video
+    <br>	
+        6.	Apa yang biasanya terjadi apabila atribut autoplay pada tag video tidak berjalan? Apa yang anda harus lakukan sehingga atribut tersebut dapat berfungsi dengan semestinya? 
+    <br>
+    </b>
+    <hr> 
+    <p></p>
+    <hd>
+    <p>&copy; 2024 create by Fadhila Khoirun Nisa' </p>
+</body>
+</html>
